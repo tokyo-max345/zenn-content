@@ -53,7 +53,7 @@ AI個人開発に憧れて、プログラミング知識ゼロの僕がClaude Co
     <script src="script.js"></script>
 </body>
 </html>
-```text
+```
 
 ```css
 /* style.css */
@@ -134,7 +134,7 @@ h1 {
 .deleteButton:hover {
     background-color: #c82333;
 }
-```text
+```
 
 ```javascript
 // script.js
@@ -172,7 +172,7 @@ document.addEventListener('DOMContentLoaded', () => {
         todoInput.value = ''; // 入力欄をクリア
     }
 });
-```text
+```
 
 正直、このコードが何をしてるのか、最初は全然わからなかった。HTMLが骨組み、CSSが見た目、JavaScriptが動き、くらいはなんとなく知ってたけど、具体的にどの行がどう作用してるのかはちんぷんかんぷん。でも、指示通りにファイルを作ってブラウザで開いたら、ちゃんと動くんだよ。これには感動したね。「え、僕、プログラミングできたんじゃね？」って錯覚するレベル。
 
