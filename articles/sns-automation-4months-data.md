@@ -3,7 +3,7 @@ title: "SNS運用を4.5ヶ月自動化して1,271投稿した結果と、見つ�
 emoji: "📉"
 type: "tech"
 topics: ["ai", "llm", "個人開発", "sns", "自動化"]
-published: false
+published: true
 ---
 
 ## 先に結論の数字だけ
