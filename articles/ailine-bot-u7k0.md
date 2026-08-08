@@ -3,7 +3,7 @@ title: "プログラミング未経験の私が、AIとLINE Bot作りの珍道�
 emoji: "📝"
 type: "tech"
 topics: ["tech"]
-published: true
+published: false
 ---
 プログラミング未経験の私が、AIとLINE Bot作りの珍道中！友達を驚かせた全記録
 

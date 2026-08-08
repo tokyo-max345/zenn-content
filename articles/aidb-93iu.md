@@ -3,7 +3,7 @@ title: "AIに丸投げしたら、僕の個人開発DBが消えた話。プロ�
 emoji: "📝"
 type: "tech"
 topics: ["tech"]
-published: true
+published: false
 ---
 AIに丸投げしたら、僕の個人開発DBが消えた話。プログラミング初心者の『どん底体験記』
 

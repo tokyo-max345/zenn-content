@@ -3,7 +3,7 @@ title: "AIに丸投げ開発で爆死した僕が学んだ、地雷を踏まな�
 emoji: "📝"
 type: "tech"
 topics: ["tech"]
-published: true
+published: false
 ---
 AIに丸投げ開発で爆死した僕が学んだ、地雷を踏まないための5つの鉄則
 

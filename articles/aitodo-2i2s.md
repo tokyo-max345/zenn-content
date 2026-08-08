@@ -3,7 +3,7 @@ title: "プログラミング未経験の僕が、AIと雑談しながらTodoア
 emoji: "📝"
 type: "tech"
 topics: ["AI", "プログラミング初心者", "個人開発", "Todoアプリ"]
-published: true
+published: false
 ---
 # プログラミング未経験の僕が、AIと雑談しながらTodoアプリを育ててみた話
 

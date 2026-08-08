@@ -3,7 +3,7 @@ title: "【爆死】「AI使えば誰でもエンジニア」を信じたプロ�
 emoji: "📝"
 type: "tech"
 topics: ["tech"]
-published: true
+published: false
 ---
 【爆死】「AI使えば誰でもエンジニア」を信じたプログラミング未経験の僕が、地獄を見た1ヶ月間
 

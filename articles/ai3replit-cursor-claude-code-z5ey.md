@@ -3,7 +3,7 @@ title: "プログラミング未経験の僕が、AI開発ツール3つをガチ
 emoji: "📝"
 type: "tech"
 topics: ["AI開発", "プログラミング初心者", "Replit", "Cursor", "Claude"]
-published: true
+published: false
 ---
 # プログラミング未経験の僕が、AI開発ツール3つをガチ比較した結果…！【Replit, Cursor, Claude Code】
 

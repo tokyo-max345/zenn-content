@@ -3,7 +3,7 @@ title: "プログラミング未経験の僕が「AIコード生成」を試し�
 emoji: "📝"
 type: "tech"
 topics: ["tech"]
-published: true
+published: false
 ---
 プログラミング未経験の僕が「AIコード生成」を試したら、結局どれが一番『バイブコーディング』しやすかった？
 

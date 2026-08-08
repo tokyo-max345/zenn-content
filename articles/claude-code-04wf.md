@@ -3,7 +3,7 @@ title: "プログラミング知識ゼロの僕がClaude Codeで個人開発を�
 emoji: "📝"
 type: "tech"
 topics: ["tech"]
-published: true
+published: false
 ---
 プログラミング知識ゼロの僕がClaude Codeで個人開発を始めたら、まさかの結果に！
 

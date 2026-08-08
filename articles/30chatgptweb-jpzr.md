@@ -3,7 +3,7 @@ title: "【AI過信】「このエラー直して」と頼み続けたら、気�
 emoji: "📝"
 type: "tech"
 topics: ["AI", "失敗", "個人", "初心", "プログラミング学"]
-published: true
+published: false
 ---
 【AI過信】「このエラー直して」と頼み続けたら、気づけば無限ループにハマり時間と心が溶けた話
 

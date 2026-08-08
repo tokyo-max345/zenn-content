@@ -3,7 +3,7 @@ title: "プログラミング未経験の僕が、AIと3日間チャットして
 emoji: "📝"
 type: "tech"
 topics: ["tech"]
-published: true
+published: false
 ---
 プログラミング未経験の僕が、AIと3日間チャットして「自分だけのTodoアプリ」を育ててみた話
 
